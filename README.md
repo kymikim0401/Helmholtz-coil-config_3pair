@@ -2,7 +2,7 @@
 ## 3rd year summer research intern at "Ion Trap Quantum Computing Group", Univ of Oxford (Jun 2019)
 ### Objective: Implement optimized coil arrangements to achieve uniform at the centre of cryogenic ion trap chamber (in this case, centre coordinate (x, y) = (85, 50)[mm])
 
-For those of you who are unaware of what "Helmholtz configuration", check the link: https://en.wikipedia.org/wiki/Helmholtz_coil
+For those of you who are unaware of what "Helmholtz configuration" is, check this link: https://en.wikipedia.org/wiki/Helmholtz_coil
 
 ![image](https://user-images.githubusercontent.com/82307352/158952302-1df0de7a-6be6-49aa-be06-88fb2bb85f23.png)
 
