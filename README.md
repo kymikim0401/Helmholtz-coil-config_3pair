@@ -8,6 +8,7 @@ For those of you who are unaware of what "Helmholtz configuration" is, check thi
 
 
 In ion trap fields, magnetic B field plays a crucial role, especially with **zeeman qubits**, since it defines the quantization axis. Quantization axis then defines the energy states of the trapped ion, and we are using those quantized energy states as a ground of quantum computations. In this sense, strong, yet uniform magnetic field is prerequisite for achieving stabilized qubit states, which is directly related with its **coherence time** (coherence time naively represents the time scale of the lifetime of quantum information stored in the qubit). This project used Ca40+ ion as a qubit, one of the most prospective zeeman qubits.
+If you want to do further reading about trapped calcium as a qubit, I recommend this paper: https://www.quantumoptics.at/images/publications/papers/qip04_schmidtkaler.pdf
 
 As I was a total novice with programming, I brute-forcely implemented achieving arragement of 3 Helmholtz-configuration pairs (total 6 coils) 
 
