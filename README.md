@@ -18,4 +18,4 @@ Below is the result graph of my code:
 
 *Note: Sign of current (+ or -) denotes the direction of the current flow (RHS or LHS)*
 
-*Note: Above image represents simulated cross-section of coil configurations in ion-trap vacuum chamber*
+*Note: Above image represents the simulated cross-section of coil configurations in ion-trap vacuum chamber*
